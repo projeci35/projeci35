@@ -1,7 +1,6 @@
 - 👋 Merhaba, Ben @projeci35
 - 👀 Ben elektrik-elektronik alanına karşı ilgiliyim proje yapmayı severim
 - 🌱 Şuan İzmir'de bir meslek okulunda öğrenim görmekteyim
-- 💞️ I’m looking to collaborate on ...
 - 📫 Amacım ülkeme faydası olan güzel bir proje yaratmak 
 
 <!---
